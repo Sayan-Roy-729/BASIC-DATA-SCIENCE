@@ -1,0 +1,15 @@
+site_name: Basic Statistics for Data-Science
+site_url: https://basics.stats.imathlogic.com
+site_author: Sayan Roy
+site_description: In this page, basic statistical (descriptive and inferential) concepts are covered that can help you to your Data Science journey.
+
+nav:
+  - About: 'index.md'
+  - Details: 'details.md'
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
